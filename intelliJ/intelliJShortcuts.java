@@ -13,7 +13,11 @@
 				
 				
 				https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf				
-				
+	
+	
+	# picking what to pase from clipboard
+	'ctrl + shift + insert' - one can chose from popup window data to paste	
+			
 	# bookmark
 	'ctrl + shift + 0-9'	- creates a bookmark in carret line in file, one can jump to this place from everywhere using 'ctrl + n'
     
